@@ -16,4 +16,5 @@ Ative o ambiente virtual (se criado) usando o comando:
 
 ```bash
 source venv/bin/activate
+pip3 install -r requirements.txt 
 ```
